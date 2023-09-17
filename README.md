@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 # Learning Stuff
 The things that interest me which I'm currently trying to do.
 
-### Tasks on-going
+### Current Tasks
 - [ ] Learning Python
   - [ ] [Harvard Univertsity CS50](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
-### Tasks to-do
+### TODO Tasks 
 - [ ] Gain certifications;
   - [ ] Security Related
     - [ ] [Google Cybersecurity Certificate](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none)
