@@ -11,7 +11,11 @@ You can click the Preview link to take a look at your changes.
 ----------------------------------------------------------------------
 
 # Learning Stuff
-Stuff I want to get started learning.
+The things that interest me which I'm currently trying to do.
+
+### Tasks on-going
+- [ ] Learning Python
+  - [ ] [Harvard Univertsity CS50](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
 ### Tasks to-do
 - [ ] Gain certifications;
@@ -31,11 +35,6 @@ Stuff I want to get started learning.
 - [ ] General Programming Languages
   - [ ] C & C++
   - [ ] GO
-
-
-### Tasks on-going
-- [ ] Learning Python
-  - [ ] [Harvard Univertsity CS50](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
 ### Completed Tasks ✓
 - [x] Make a task list
