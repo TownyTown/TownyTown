@@ -18,6 +18,9 @@ The things that interest me which I'm currently trying to do.
   - [ ] [Harvard Univertsity CS50](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
 ### TODO Tasks 
+- [ ] Projects
+  - [ ] Website that fixes broken google upload Epubs
+
 - [ ] Gain certifications;
   - [ ] Security Related
     - [ ] [Google Cybersecurity Certificate](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none)
