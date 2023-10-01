@@ -19,7 +19,8 @@ The things that interest me which I'm currently trying to do.
 
 ### TODO Tasks 
 - [ ] Projects
-  - [ ] Website that fixes broken google upload Epubs
+  - [ ] Website that fixes broken google upload Epubs (Calibre epub -> mobi -> epub again)
+  - [ ] Website that may or may not show leaked accounts based on public breaches (nulled -> database -> show account)
 
 - [ ] Gain certifications;
   - [ ] Security Related
